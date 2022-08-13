@@ -49,3 +49,5 @@ R305/R307 Fingerprint sensor module
 
     DS3231 Library - [Download](https://github.com/rodan/ds3231)
     Adafruit Fingerpring Sensor Library - [Download](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
+
+Arduino code here -> [ARDUINO CODE](./fingerprint-attendance/fingerprint-attendance.ino)
