@@ -13,14 +13,14 @@ refer from their original post [Obstacle avoiding Robot](https://create.arduino.
 
 | NAME                                         | QTY |
 | -------------------------------------------- | --- |
-| Arduino UNO board.                           | 1   |
-| SparkFun Ultrasonic Sensor - HC-SR04         | 1   |
-| SparkFun Dual H-Bridge Motor drivers LM298N  | 1   |
-| 9V battery (generic)                         | 1   |
-| Male to Male and Make to Female jumper wires | 20  |
-| Breadboard                                   | 1   |
-| Wheels                                       | 2   |
-| Chasis                                       | 1   |
+| Arduino UNO board.                           |  1  |
+| SparkFun Ultrasonic Sensor - HC-SR04         |  1  |
+| SparkFun Dual H-Bridge Motor drivers LM298N  |  1  |
+| 9V battery (generic)                         |  1  |
+| Male to Male and Make to Female jumper wires |  20 |
+| Breadboard                                   |  1  |
+| Wheels                                       |  2  |
+| Chasis                                       |  1  |
 
 ## About this project
 ### How Ultrasonic sensor can be used to avoid obstacles
