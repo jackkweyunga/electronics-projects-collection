@@ -64,11 +64,11 @@ All credits goes to [Uteh Str](https://youtu.be/656rrJu7ezs)
 
 ## Libraries
 
- 1. Freetronics dot matrix display library 
+ 1. Freetronics dot matrix display library\ 
  [https://github.com/freetronics/DMD](https://github.com/freetronics/DMD)
 
- 2. TimerOne Library: Use with Freetronics dot matrix display library to configure 16bits hardware timer
+ 2. TimerOne Library: Use with Freetronics dot matrix display library to configure 16bits hardware timer\
  [http://code.google.com/p/arduino-timerone/downloads/list](http://code.google.com/p/arduino-timerone/downloads/list)
 
- 3. LCD Monitor Library: Arduino LiquidCrystal driver based on the Hitachi HD44780
+ 3. LCD Monitor Library: Arduino LiquidCrystal driver based on the Hitachi HD44780\
  [https://github.com/adafruit/LiquidCrystal](https://github.com/adafruit/LiquidCrystal)
