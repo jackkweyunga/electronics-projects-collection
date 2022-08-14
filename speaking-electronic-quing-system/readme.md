@@ -64,7 +64,7 @@ All credits goes to [Uteh Str](https://youtu.be/656rrJu7ezs)
 
 ## Libraries
 
- 1. Freetronics dot matrix display library\ 
+ 1. Freetronics dot matrix display library \
  [https://github.com/freetronics/DMD](https://github.com/freetronics/DMD)
 
  2. TimerOne Library: Use with Freetronics dot matrix display library to configure 16bits hardware timer\
