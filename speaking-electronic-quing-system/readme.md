@@ -60,7 +60,7 @@ All credits goes to [Uteh Str](https://youtu.be/656rrJu7ezs)
 ><p>The demonstration video of both the code with EEPROM and without EEPROM will be shown below.</p>
 
 ## Video
-[![Watch the video for queuing system here!](./speaking%20-electronic-quing-system/images/project%20image.png)](https://youtu.be/656rrJu7ezs)
+<a href="https://youtu.be/656rrJu7ezs" align="center"><img src="./speaking%20-electronic-quing-system/images/project%20image.png" alt="Watch the video for queuing system here"></a>
 
 ## Libraries
 
