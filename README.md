@@ -6,7 +6,7 @@
 - [x] [Line follower robot](./line-follower-robot/readme.md)
 - [x] [Mobile money transactions logger](./mobile-money-transactions-logger/readme.md)
 - [x] [Obstacles avoiding robot](./obstacles-avoiding-robot/readme.md)
-- [ ] [Speaking electronics quing system](./speaking-electronic-quing-system/readme.md)
+- [x] [Speaking electronics quing system](./speaking-electronic-quing-system/readme.md)
 
 
 ## Contributing
