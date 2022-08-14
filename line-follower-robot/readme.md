@@ -74,4 +74,4 @@ refer from their original post [Line Follower Robot](https://create.arduino.cc/p
 
 ## Video
 
-[![Whatch the of line follower robot video here!](/line-follower-robot/line-follower/images/project-image.png)](https://youtu.be/UrWKS8XJh2Y)
+[![Watch the of line follower robot video here!](/line-follower-robot/line-follower/images/project-image.png)](https://youtu.be/UrWKS8XJh2Y)
