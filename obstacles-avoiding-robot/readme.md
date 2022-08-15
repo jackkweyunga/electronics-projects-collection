@@ -40,7 +40,7 @@ refer from their original post [Obstacle avoiding Robot](https://create.arduino.
 
 ## Programming Arduino for obstacle avoiding robot
 
-> <p><b>Complete program with a demonstration video</b> is given at the end of this readME. this program will include setting up HC-SR04 module and outputting the signals to motor pins to move motor direction accordingl. No libraries will be used in this project</p>
+> <p><b>Complete program with a demonstration video</b> is given at the end of this readME. this program will include setting up HC-SR04 module and outputting the signals to motor pins to move motor direction accordingly. No libraries will be used in this project</p>
 
 > 1.  <P>First <b>define trig and echo pin of HC-SR04</b> in the program. In this project the trig pin is connected to GPIO9 and echo pin is connected to GPIO10 of Arduino NANO.</P>
 
@@ -58,7 +58,7 @@ refer from their original post [Obstacle avoiding Robot](https://create.arduino.
     int fwdright7 = 7;      //ForWarD motion of Right motor
 ```
 
-> 3.  <P>In setup() function, <b>define the data direction of utilised GPIO pins</b>. The four Motor pins and Trig pin is set as OUTPUT and Echo Pin is set as Input.</P>
+> 3.  <P>In setup() function, <b>define the data direction of utilized GPIO pins</b>. The four Motor pins and Trig pin is set as OUTPUT and Echo Pin is set as Input.</P>
 
 ```
    pinMode(revleft4, OUTPUT);      // set Motor pins as output
@@ -93,7 +93,7 @@ refer from their original post [Obstacle avoiding Robot](https://create.arduino.
         }
 ```
 
-> <P>If the distance is less than the defined distance to avoid obstacle means <b>there is some obstacle ahead</b>. So in this situation robot will stop for a while and movebackwards after that again stop for a while and then take turn to another direction.</P>
+> <P>If the distance is less than the defined distance to avoid obstacle means <b>there is some obstacle ahead</b>. So in this situation robot will stop for a while and move backwards after that again stop for a while and then take turn to another direction.</P>
 
 ```
    if (distance < 18)
@@ -103,7 +103,7 @@ refer from their original post [Obstacle avoiding Robot](https://create.arduino.
             digitalWrite(fwdleft5, LOW);
             digitalWrite(revleft4, LOW);
             delay(500);
-            digitalWrite(fwdright7, LOW);      //movebackward
+            digitalWrite(fwdright7, LOW);      //move backward
             digitalWrite(revright6, HIGH);
             digitalWrite(fwdleft5, LOW);
             digitalWrite(revleft4, HIGH);
