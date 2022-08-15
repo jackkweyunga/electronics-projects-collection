@@ -24,7 +24,7 @@ refer from their original post [Line Follower Robot](https://create.arduino.cc/p
 
 ### Component 1 : The IR Proximity Sensor
 
-> The concept of working of line follower robots is based on the principles of light. White color reflects almost all the light falling on it, whereas balck light absorbs most of the light. In case of a line follower robot we use IR transmitters and receivers also called **photodiodes**. They are used for sending and receiving light. IR transmit infrared lights. When infrared rays falls on white surface, it's reflected back and catched by photodiodes which generate some voltage changes. When IR light falls on a black surface, light is absorbed by the black surface and no rays are reflected back, thus photodiode does not receive any light or rays.\
+> The concept of working of line follower robots is based on the principles of light. White color reflects almost all the light falling on it, whereas black light absorbs most of the light. In case of a line follower robot we use IR transmitters and receivers also called **photodiodes**. They are used for sending and receiving light. IR transmit infrared lights. When infrared rays falls on white surface, it's reflected back and catched by photodiodes which generate some voltage changes. When IR light falls on a black surface, light is absorbed by the black surface and no rays are reflected back, thus photodiodes does not receive any light or rays.\
 > Here in this arduino line follower robot when sensor senses white surface then Arduino gets 1, i.e. HIGH as input and when senses black surface the Arduino gets 0, i.e. LOW as input.
 > <br>
 > <p align="center"><img src="./line-follower/images/IR-proximity-sensors.avif" alt="IR Proximity Sensors"/></p>
@@ -74,4 +74,4 @@ refer from their original post [Line Follower Robot](https://create.arduino.cc/p
 
 ## Video
 
-[![Whatch the of line follower robot video here!](/line-follower-robot/line-follower/images/project-image.png)](https://youtu.be/UrWKS8XJh2Y)
+[![Watch the of line follower robot video here!](/line-follower-robot/line-follower/images/project-image.png)](https://youtu.be/UrWKS8XJh2Y)
