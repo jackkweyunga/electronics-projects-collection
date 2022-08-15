@@ -12,3 +12,6 @@ To contribute on an existing project, fork the project and work on one of the fe
 ## Contributing by adding a new project
 
 Fork the project and create a branch with the name `feature/[yourproject-name]`
+
+- Suggested tools for development
+  - git flow
