@@ -13,19 +13,19 @@ refer their blog post [how2electronics fingerprint biometrics attendance](https:
 
 - Materials
 
-| NAME           | QTY         |
-|----------------|-------------|
-| arduino UNO board.| 1|
-| LCD Display | 1
-| RTC Module (DS3231/DS1307 Real Time Clock Module)|1
-| R305/R307 Fingerprint sensor module|1
-| LCD Display | 1
-| Potentiometer 10k | 1
-| Push buttons , Push-To-ON Reset Tact Switch | 5
-| Buzzer 5V Active Buzzer | 1
-| LED any color | 1
-| Connecting Wires / jumpers | 20
-| Breadboard | 1
+| NAME                                              | QTY |
+| ------------------------------------------------- | --- |
+| arduino UNO board.                                | 1   |
+| LCD Display                                       | 1   |
+| RTC Module (DS3231/DS1307 Real Time Clock Module) | 1   |
+| R305/R307 Fingerprint sensor module               | 1   |
+| LCD Display                                       | 1   |
+| Potentiometer 10k                                 | 1   |
+| Push buttons , Push-To-ON Reset Tact Switch       | 5   |
+| Buzzer 5V Active Buzzer                           | 1   |
+| LED any color                                     | 1   |
+| Connecting Wires / jumpers                        | 20  |
+| Breadboard                                        | 1   |
 
 - Specifications
 
@@ -43,11 +43,11 @@ R305/R307 Fingerprint sensor module
 
 ![circuit diagram](https://how2electronics.com/wp-content/uploads/2019/01/fingerprint-attendance-circuit-diagram-960x487.jpg)
 
-- Arduion Libraries
+- Arduino Libraries
 
-    You can use the arduino packages downloader in the arduino IDE or download these libraries manuaaly.
+  You can use the arduino packages downloader in the arduino IDE or download these libraries manuaaly.
 
-    DS3231 Library - [Download](https://github.com/rodan/ds3231)
-    Adafruit Fingerpring Sensor Library - [Download](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
+  DS3231 Library - [Download](https://github.com/rodan/ds3231)
+  Adafruit Fingerprint Sensor Library - [Download](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
 
 Arduino code here -> [ARDUINO CODE](./fingerprint-attendance/fingerprint-attendance.ino)
