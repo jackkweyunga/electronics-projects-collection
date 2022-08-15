@@ -7,7 +7,7 @@
 - [x] [Mobile money transactions logger](./mobile-money-transactions-logger/readme.md)
 - [x] [Obstacles avoiding robot](./obstacles-avoiding-robot/readme.md)
 - [x] [Speaking electronics quing system](./speaking-electronic-quing-system/readme.md)
-- [] [Duino Coin miner](./duino-coin-miner/readme.md)
+- [ ] [Duino Coin miner](./duino-coin-miner/readme.md)
 
 ## Contributing
 
