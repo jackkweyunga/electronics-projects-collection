@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Welcome, your contribution means alot. "
-        pr-message: "Hooray, you made it, arduino-projects-collection mantainers are proud. "
+        pr-message: "Hooray, you made it, electronics-projects-collection mantainers are proud. "
