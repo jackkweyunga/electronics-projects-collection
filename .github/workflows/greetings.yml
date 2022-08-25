@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Welcome, your contribution means alot. "
-        pr-message: "Hooray, you made it, electronics-projects-collection mantainers are proud. "
+        issue-message: "Welcome, your contribution means a lot. "
+        pr-message: "Hooray, you made it, electronics-projects-collection maintainers are proud. "

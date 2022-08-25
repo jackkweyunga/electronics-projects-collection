@@ -24,11 +24,11 @@
 
 ### Connections Steps
 
-NOTE: Pin 7 and 8 in arduino are reserved as RX (Receiving) and TX (Transimiting) pins.
+NOTE: Pin 7 and 8 in arduino are reserved as RX (Receiving) and TX (Transmitting) pins.
 
 1. Look for a SIM slot in your arduino GSM module and insert your SIM card
 
-2. Power your GSM module by connecting a 5V power supply to it via its adjucent power pins (VCC, GND).
+2. Power your GSM module by connecting a 5V power supply to it via its adjacent power pins (VCC, GND).
 
     | see below   |
     | :---------: |
